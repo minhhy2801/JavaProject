@@ -3,6 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//Program menu: Array process 
+// Function 1: Sort and print array 
+// Function 2: Print min and max value in array 
+// Function 3: Calculate and print out average of elements divided by 3 
 package javaapplication15;
 
 import java.util.Arrays;
