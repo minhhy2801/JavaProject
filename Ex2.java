@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//Input an integer n, the program will show multiplication table of n (Using String.format) 
 package javaapplication11;
 
 import java.util.Scanner;
