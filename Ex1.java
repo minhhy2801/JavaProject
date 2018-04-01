@@ -16,10 +16,12 @@ public class Ex1 {
 
 public static void main(String[]args)
     {
-        int count = 0, max_count = 100, i;
-        System.out.println("First "+max_count+" Prime Numbers:");
+        int count = 0, max = 0, i;
+        Scanner in = new Scanner(System.in);
+        max = in.nextInt();
+        System.out.println("First "+max+" Prime Numbers:");
 
-        for(int num=1; count<max_count; num++)
+        for(int num=1; count<max; num++)
         {
             for(i=2; num%i != 0; i++);
 
