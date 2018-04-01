@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//Input an integer n, the program will show the first n primes 
 package javaapplication10;
 
 import java.util.Scanner;
