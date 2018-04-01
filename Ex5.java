@@ -3,6 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//Exercise 5- Create class Product have private name: String, private price: double, private color: String 
+// Create three method: private computeVAT(), public inputProduct(), public printProduct() 
+// Create constructor full field ,constructor 2 parameter name, price and constructor empty 
+// Create at least 3 object, Using method created 
+// Print with format table 
 package ex5;
 import java.util.Scanner;
 public class Ex5 {
