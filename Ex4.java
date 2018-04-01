@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+// Using Two Arrays save information Fullname and mark of Student 
 package javaapplication14;
 
 import java.util.*;
